@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\APRader\\StudioProjects\\gdk-stopwatch-sample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\APRader\\StudioProjects\\gdk-stopwatch-sample\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "704",
+                        "endColumns": "41",
+                        "endOffsets": "741"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "41",
+                        "endOffsets": "92"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\APRader\\StudioProjects\\gdk-stopwatch-sample\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "19,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "830,965",
+                        "endColumns": "46,37",
+                        "endOffsets": "872,998"
+                    },
+                    "to": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "97,144",
+                        "endColumns": "46,37",
+                        "endOffsets": "139,177"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\APRader\\StudioProjects\\gdk-stopwatch-sample\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "17,27,33",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "704,1183,1405",
+                        "endLines": "25,31,38",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "1175,1397,1762"
+                    },
+                    "to": {
+                        "startLines": "5,14,19",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "182,650,865",
+                        "endLines": "13,18,24",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "645,860,1217"
+                    }
+                }
+            ]
+        }
+    ]
+}

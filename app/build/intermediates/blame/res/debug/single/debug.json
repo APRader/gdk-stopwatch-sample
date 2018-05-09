@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\APRader\\StudioProjects\\gdk-stopwatch-sample\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_chronometer.xml.flat",
+        "source": "C:\\Users\\APRader\\StudioProjects\\gdk-stopwatch-sample\\app\\src\\main\\res\\layout\\card_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\APRader\\StudioProjects\\gdk-stopwatch-sample\\app\\build\\intermediates\\res\\merged\\debug\\raw_start.ogg.flat",
+        "source": "C:\\Users\\APRader\\StudioProjects\\gdk-stopwatch-sample\\app\\src\\main\\res\\raw\\start.ogg"
+    },
+    {
+        "merged": "C:\\Users\\APRader\\StudioProjects\\gdk-stopwatch-sample\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_countdown.xml.flat",
+        "source": "C:\\Users\\APRader\\StudioProjects\\gdk-stopwatch-sample\\app\\src\\main\\res\\layout\\card_countdown.xml"
+    },
+    {
+        "merged": "C:\\Users\\APRader\\StudioProjects\\gdk-stopwatch-sample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_stop.png.flat",
+        "source": "C:\\Users\\APRader\\StudioProjects\\gdk-stopwatch-sample\\app\\src\\main\\res\\drawable\\ic_stop.png"
+    },
+    {
+        "merged": "C:\\Users\\APRader\\StudioProjects\\gdk-stopwatch-sample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_colon.png.flat",
+        "source": "C:\\Users\\APRader\\StudioProjects\\gdk-stopwatch-sample\\app\\src\\main\\res\\drawable\\ic_colon.png"
+    },
+    {
+        "merged": "C:\\Users\\APRader\\StudioProjects\\gdk-stopwatch-sample\\app\\build\\intermediates\\res\\merged\\debug\\xml_voice_trigger_start.xml.flat",
+        "source": "C:\\Users\\APRader\\StudioProjects\\gdk-stopwatch-sample\\app\\src\\main\\res\\xml\\voice_trigger_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\APRader\\StudioProjects\\gdk-stopwatch-sample\\app\\build\\intermediates\\res\\merged\\debug\\menu_stopwatch.xml.flat",
+        "source": "C:\\Users\\APRader\\StudioProjects\\gdk-stopwatch-sample\\app\\src\\main\\res\\menu\\stopwatch.xml"
+    },
+    {
+        "merged": "C:\\Users\\APRader\\StudioProjects\\gdk-stopwatch-sample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_lap.png.flat",
+        "source": "C:\\Users\\APRader\\StudioProjects\\gdk-stopwatch-sample\\app\\src\\main\\res\\drawable\\ic_lap.png"
+    },
+    {
+        "merged": "C:\\Users\\APRader\\StudioProjects\\gdk-stopwatch-sample\\app\\build\\intermediates\\res\\merged\\debug\\raw_countdown_bip.ogg.flat",
+        "source": "C:\\Users\\APRader\\StudioProjects\\gdk-stopwatch-sample\\app\\src\\main\\res\\raw\\countdown_bip.ogg"
+    },
+    {
+        "merged": "C:\\Users\\APRader\\StudioProjects\\gdk-stopwatch-sample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_interpunc.png.flat",
+        "source": "C:\\Users\\APRader\\StudioProjects\\gdk-stopwatch-sample\\app\\src\\main\\res\\drawable\\ic_interpunc.png"
+    }
+]

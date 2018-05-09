@@ -1,0 +1,75 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml:17:1-54:12
+INJECTED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml:17:1-54:12
+INJECTED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml:17:1-54:12
+INJECTED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml:17:1-54:12
+INJECTED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml:17:1-54:12
+	package
+		ADDED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml:18:5-56
+	android:versionName
+		ADDED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml:20:5-30
+		INJECTED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml:17:11-69
+	android:versionCode
+		ADDED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml:19:5-28
+		INJECTED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml:22:5-24:41
+INJECTED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml:22:5-24:41
+INJECTED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml:22:5-24:41
+INJECTED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml:22:5-24:41
+INJECTED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml:22:5-24:41
+	android:targetSdkVersion
+		ADDED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml:24:9-38
+		INJECTED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml:23:9-35
+		INJECTED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml:26:5-52:19
+	android:label
+		ADDED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml:29:9-41
+	android:icon
+		ADDED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml:28:9-40
+	android:allowBackup
+		ADDED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml:27:9-35
+activity#com.google.android.glass.sample.stopwatch.MenuActivity
+ADDED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml:31:9-36:20
+	android:enabled
+		ADDED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml:35:13-35
+	android:label
+		ADDED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml:33:13-45
+	android:theme
+		ADDED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml:34:13-45
+	android:name
+		ADDED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml:32:13-82
+service#com.google.android.glass.sample.stopwatch.StopwatchService
+ADDED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml:38:9-50:19
+	android:enabled
+		ADDED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml:42:13-35
+	android:label
+		ADDED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml:41:13-45
+	android:exported
+		ADDED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml:43:13-36
+	android:icon
+		ADDED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml:40:13-44
+	android:name
+		ADDED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml:39:13-86
+intent-filter#action:name:com.google.android.glass.action.VOICE_TRIGGER
+ADDED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml:44:13-46:29
+action#com.google.android.glass.action.VOICE_TRIGGER
+ADDED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml:45:17-88
+	android:name
+		ADDED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml:45:25-85
+meta-data#com.google.android.glass.VoiceTrigger
+ADDED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml:47:13-49:63
+	android:resource
+		ADDED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml:49:17-60
+	android:name
+		ADDED from C:\Users\APRader\StudioProjects\gdk-stopwatch-sample\app\src\main\AndroidManifest.xml:48:17-69

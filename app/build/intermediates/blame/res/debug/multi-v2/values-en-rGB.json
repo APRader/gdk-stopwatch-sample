@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\APRader\\StudioProjects\\gdk-stopwatch-sample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rGB\\values-en-rGB.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\APRader\\StudioProjects\\gdk-stopwatch-sample\\app\\src\\main\\res\\values-en-rGB\\strings.xml",
+                    "from": {
+                        "startLines": "18,19",
+                        "startColumns": "4,4",
+                        "startOffsets": "822,900",
+                        "endColumns": "76,67",
+                        "endOffsets": "894,963"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,132",
+                        "endColumns": "76,67",
+                        "endOffsets": "127,195"
+                    }
+                }
+            ]
+        }
+    ]
+}
